@@ -1,0 +1,14 @@
+C:\Users\anysale\source\repos\ElinKleymenov\ElinKleymenov\bin\Debug\net8.0\ElinKleymenov.exe
+C:\Users\anysale\source\repos\ElinKleymenov\ElinKleymenov\bin\Debug\net8.0\ElinKleymenov.deps.json
+C:\Users\anysale\source\repos\ElinKleymenov\ElinKleymenov\bin\Debug\net8.0\ElinKleymenov.runtimeconfig.json
+C:\Users\anysale\source\repos\ElinKleymenov\ElinKleymenov\bin\Debug\net8.0\ElinKleymenov.dll
+C:\Users\anysale\source\repos\ElinKleymenov\ElinKleymenov\bin\Debug\net8.0\ElinKleymenov.pdb
+C:\Users\anysale\source\repos\ElinKleymenov\ElinKleymenov\obj\Debug\net8.0\ElinKleymenov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anysale\source\repos\ElinKleymenov\ElinKleymenov\obj\Debug\net8.0\ElinKleymenov.AssemblyInfoInputs.cache
+C:\Users\anysale\source\repos\ElinKleymenov\ElinKleymenov\obj\Debug\net8.0\ElinKleymenov.AssemblyInfo.cs
+C:\Users\anysale\source\repos\ElinKleymenov\ElinKleymenov\obj\Debug\net8.0\ElinKleymenov.csproj.CoreCompileInputs.cache
+C:\Users\anysale\source\repos\ElinKleymenov\ElinKleymenov\obj\Debug\net8.0\ElinKleymenov.dll
+C:\Users\anysale\source\repos\ElinKleymenov\ElinKleymenov\obj\Debug\net8.0\refint\ElinKleymenov.dll
+C:\Users\anysale\source\repos\ElinKleymenov\ElinKleymenov\obj\Debug\net8.0\ElinKleymenov.pdb
+C:\Users\anysale\source\repos\ElinKleymenov\ElinKleymenov\obj\Debug\net8.0\ElinKleymenov.genruntimeconfig.cache
+C:\Users\anysale\source\repos\ElinKleymenov\ElinKleymenov\obj\Debug\net8.0\ref\ElinKleymenov.dll
